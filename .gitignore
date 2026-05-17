@@ -1,0 +1,11 @@
+# Large output folder — regenerate by running the R script
+simulation_outputs
+
+# R workspace file (large binary)
+*.RData
+*.Rhistory
+*.RData
+
+# OS files
+.DS_Store
+Thumbs.db

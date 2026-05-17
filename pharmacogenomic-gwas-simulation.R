@@ -5,7 +5,7 @@
 # Author      : Kavya Atapattu Mudiyanselage
 # Supervisor  : Prof. Matti Pirinen
 # Institution : University of Helsinki, Faculty of Science
-#               Master's Programme in Mathematics and Statistics
+#               Master's Programme in Mathematics and Statistics 
 # Date        : May 2026
 # =============================================================================
 #

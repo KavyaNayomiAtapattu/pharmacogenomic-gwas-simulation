@@ -21,8 +21,8 @@ remotes::install_github("Osmahmoud/SlopeHunter")
 
 ## How to run
 
-Open `SimulationMay.R` in RStudio and run the entire script.
-All figures and tables will be written to `simulation_outputs_May12/`.
+Open `pharmacogenomic-gwas-simulation.R` in RStudio and run the entire script.
+All figures and tables will be written to `simulation_outputs/`.
 Runtime: approximately 2–4 hours for 1000 iterations on a standard laptop.
 
 ## Outputs

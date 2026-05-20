@@ -21,7 +21,7 @@ remotes::install_github("Osmahmoud/SlopeHunter")
 
 ## How to run
 
-Open `SimulationMay12v1.R` in RStudio and run the entire script.
+Open `SimulationMay.R` in RStudio and run the entire script.
 All figures and tables will be written to `simulation_outputs_May12/`.
 Runtime: approximately 2–4 hours for 1000 iterations on a standard laptop.
 
